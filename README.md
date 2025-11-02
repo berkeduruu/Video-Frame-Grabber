@@ -1,4 +1,4 @@
-#Video Frame Grabber    
+# Video Frame Grabber    
 
 <img width="901" height="844" alt="image" src="https://github.com/user-attachments/assets/a05d9f3c-1117-4607-b318-5037246fc812" />
 
@@ -10,13 +10,13 @@ Features
 
 This tool is designed for both quick grabs and detailed sequence extractions, with a focus on precision and flexibility.
 
-#1. Flexible Video Input
+# 1. Flexible Video Input
 
 Load via Dialog: Use the "Load Video" button to select any common video file.
 
 Drag-and-Drop: Simply drag your video file directly onto the preview window (even while another video is playing) to load it instantly.
 
-#2. Time Range Selection
+# 2. Time Range Selection
 
 Select the time range for extraction:
 
@@ -26,7 +26,7 @@ Text Input: Type in exact timestamps in mm:ss:zzz format.
 
 "Set Current" Buttons: Use the player to find the exact time and click "Set Current".
 
-#3. Extraction Modes
+# 3. Extraction Modes
 
 Choose how frames are extracted from the selected range:
 
@@ -36,7 +36,7 @@ Interval (Mode B): Specify a time interval (e.g., 500ms). Extracts one frame eve
 
 Save All Frames (Mode C): Captures every single frame in the range. Ignores Mode A and B.
 
-#4. Output Options
+# 4. Output Options
 
 Control the output format:
 
@@ -52,7 +52,7 @@ ZIP (.zip): Compresses all frames into a single .zip file.
 
 TAR.GZ (.tar.gz): Compresses all frames into a .tar.gz archive.
 
-#5. Other Features
+# 5. Other Features
 
 Skip Duplicates: An option to avoid saving identical consecutive frames.
 
@@ -64,7 +64,7 @@ Open Folder Button: Open the output folder directly from the app.
 
 Process Log: Shows detailed logs, errors, and success messages.
 
-#How to Use
+# How to Use
 
 Load Video: Click "Load Video" or drag-and-drop a file.
 
@@ -76,7 +76,7 @@ Set Mode: Choose an extraction mode and your output/archive format.
 
 Start: Click "START EXTRACTION".
 
-#Installation & Running
+# Installation & Running
 
 You can either download the pre-compiled application or run the script from the source code.
 
